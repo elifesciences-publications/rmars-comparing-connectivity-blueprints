@@ -4,7 +4,7 @@ Mars RB, Sotiropoulos SN, Passingham RE, Sallet J, Verhagen L, Khrapitchev AA, S
 
 #### Tractography protocols
 
-This directory `protocols` contains the recipes used to generate the white matter tracts using probabilistic tractography in standard space (MNI152_1mm for the human, F99 for the macaque). Each species' directory contains one folder per tract. The tract folders contain at least a seed, target (i.e., waypoint), and exclusion (i.e., avoid) mask. Sometimes there is also a stop mask or an 'invert' file that indicates the protocol should also be run with the seed and target switched and the results averaged.
+This directories `Human/protocols` and `Macaque/protocols` contain the recipes used to generate the white matter tracts using probabilistic tractography in standard space (MNI152_1mm for the human, F99 for the macaque). Each species' directory contains one folder per tract. The tract folders contain at least a seed, target (i.e., waypoint), and exclusion (i.e., avoid) mask. Sometimes there is also a stop mask or an 'invert' file that indicates the protocol should also be run with the seed and target switched and the results averaged.
 
 #### Code
 
