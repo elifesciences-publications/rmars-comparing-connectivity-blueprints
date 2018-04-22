@@ -18,7 +18,7 @@ The `code` directory contains some Matlab scripts to perform some of the analyse
 
 #### Results
 
-Some of the illustrative results presented in the paper's figures are included in the `blueprints` and `maps` directories.
+Some of the illustrative results presented in the paper's figures are included in the `maps` directory.
 
 The blueprints are the vertex by tract blueprints for each hemisphere for the human (hum_L_blueprint.mat and hum_R_blueprint.mat Matlab files) and macaque (mac_L_blueprint.mat and mac_R_blueprint.mat Matlab files) are located in the `blueprints` directory.
 
