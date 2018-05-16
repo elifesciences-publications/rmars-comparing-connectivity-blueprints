@@ -1,2 +1,2 @@
-./maps/Human_Macaque_doubleclick_KL_L.dconn.nii filter=lfs diff=lfs merge=lfs -text
-./maps/Human_Macaque_doubleclick_KL_R.dconn.nii filter=lfs diff=lfs merge=lfs -text
+maps/Human_Macaque_doubleclick_KL_R.dconn.nii filter=lfs diff=lfs merge=lfs -text
+maps/Human_Macaque_doubleclick_KL_L.dconn.nii filter=lfs diff=lfs merge=lfs -text
